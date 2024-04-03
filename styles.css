@@ -1,0 +1,23 @@
+* {
+    background-color: rgb(20, 20, 20);
+}
+h1 {
+    color: rgb(200, 100, 0)
+}
+
+h2 {
+    color: rgb(100, 150, 20)
+}
+
+p,
+li {
+    color: rgb(220, 220, 220)
+}
+
+ul li {
+    color: rgb(180, 220, 180)
+}
+
+a {
+    color: rgb(120,200,255)
+}
